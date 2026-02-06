@@ -1,5 +1,5 @@
 {
-    'name': "Advanced HR Leave Restriction with Mandatory Days",
+    'name': "16.93",
     'version': '19.0.1.0.0',
     'category': 'Human Resources',
     'sequence': -100,
