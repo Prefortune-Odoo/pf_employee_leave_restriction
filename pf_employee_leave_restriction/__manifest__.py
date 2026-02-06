@@ -1,5 +1,5 @@
 {
-    'name': "16.93",
+    'name': "HR Leave Restriction For Mandatory Days",
     'version': '19.0.1.0.0',
     'category': 'Human Resources',
     'sequence': -100,
@@ -13,7 +13,7 @@
     'maintainer': 'Prefortune Technologies LLP',
     "support": "odoo@prefortune.com",
     'currency': 'EUR',
-	'price': '',
+	'price': '16.93',
     'depends': ['hr_holidays'],
     'data': [
         # 'security/ir.model.access.csv',
